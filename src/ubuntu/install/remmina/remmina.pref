@@ -37,7 +37,7 @@ resolutions=640x480,800x600,1024x768,1152x864,1280x960,1400x1050,1920x1080
 keystrokes=Send hello world§hello world\\n
 main_width=600
 main_height=400
-main_maximize=false
+main_maximize=true
 main_sort_column_id=2
 main_sort_order=0
 expanded_group=
@@ -120,7 +120,7 @@ color14=rgb(152,154,156)
 color15=rgb(213,204,186)
 
 [remmina]
-name=
+name=ESG
 ignore-tls-errors=1
 
 [usage_stats]
